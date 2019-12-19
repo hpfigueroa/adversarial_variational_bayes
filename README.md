@@ -11,14 +11,14 @@ It contains tensorflow 2.x implementations for both models and compares their pe
 
 The code takes some implementation ideas from the following sources:
 
-Tensorflow tutorials:
-https://www.tensorflow.org/tutorials/generative/cvae
-https://www.tensorflow.org/tutorials/generative/dcgan
-https://www.tensorflow.org/guide/keras/functional
+Tensorflow tutorials:  
+https://www.tensorflow.org/tutorials/generative/cvae  
+https://www.tensorflow.org/tutorials/generative/dcgan  
+https://www.tensorflow.org/guide/keras/functional  
 
-Author tensorflow 1.x based repo:
+Author tensorflow 1.x based repo:  
 https://github.com/LMescheder/AdversarialVariationalBayes
 
-AVB pytorch implementation post:
+AVB pytorch implementation post:  
 https://chrisorm.github.io/AVB-pyt.html
 
